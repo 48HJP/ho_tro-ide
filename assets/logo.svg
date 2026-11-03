@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="none">
+  <!-- Dev Runner Logo: Terminal Bracket (Dev) + Play Button (Runner) -->
+  <!-- Terminal / Code Bracket Symbol (>) -->
+  <path d="M 20 23 L 59 64 L 20 105" 
+        stroke="#00C853" 
+        stroke-width="14" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+
+  <!-- Play / Run Button Triangle (▶) -->
+  <path d="M 74 30 C 74 24.5 80.2 21.2 84.8 24.2 L 113.8 58.2 C 117.8 60.8 117.8 67.2 113.8 69.8 L 84.8 103.8 C 80.2 106.8 74 103.5 74 98 Z" 
+        fill="#00C853"/>
+</svg>

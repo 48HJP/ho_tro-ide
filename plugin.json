@@ -1,0 +1,12 @@
+{
+  "name": "dev-runner",
+  "displayName": "Dev Runner",
+  "description": "Tự động phát hiện loại dự án, chạy chương trình trong terminal, giám sát hoạt động gói tin (npm, pip, cargo, go modules), và hiển thị log realtime.",
+  "version": "1.0.0",
+  "author": "hao14",
+  "suggestedPrompts": [
+    "Chạy dự án hiện tại",
+    "Kiểm tra và hiển thị trạng thái các gói tin",
+    "Phân tích log hoạt động của dự án"
+  ]
+}
